@@ -3,64 +3,16 @@
 <juiceboxgallery
 	galleryTitle="Juicebox Lite Gallery"
 >
-  <image imageURL="images/1.jpeg"
-	thumbURL="thumbs/1.jpeg"
-	linkURL="images/1.jpeg"
+  <image imageURL="images/wide.jpeg"
+	thumbURL="thumbs/wide.jpeg"
+	linkURL="images/wide.jpeg"
 	linkTarget="_blank">
+	<title>Welcome to Juicebox!</title>
   </image>
-  <image imageURL="images/2.jpeg"
-	thumbURL="thumbs/2.jpeg"
-	linkURL="images/2.jpeg"
+  <image imageURL="images/tall.jpeg"
+	thumbURL="thumbs/tall.jpeg"
+	linkURL="images/tall.jpeg"
 	linkTarget="_blank">
-  </image>
-  <image imageURL="images/3.jpeg"
-	thumbURL="thumbs/3.jpeg"
-	linkURL="images/3.jpeg"
-	linkTarget="_blank">
-  </image>
-  <image imageURL="images/4.jpeg"
-	thumbURL="thumbs/4.jpeg"
-	linkURL="images/4.jpeg"
-	linkTarget="_blank">
-  </image>
-  <image imageURL="images/5.jpeg"
-	thumbURL="thumbs/5.jpeg"
-	linkURL="images/5.jpeg"
-	linkTarget="_blank">
-  </image>
-  <image imageURL="images/6.jpeg"
-	thumbURL="thumbs/6.jpeg"
-	linkURL="images/6.jpeg"
-	linkTarget="_blank">
-  </image>
-  <image imageURL="images/7.jpeg"
-	thumbURL="thumbs/7.jpeg"
-	linkURL="images/7.jpeg"
-	linkTarget="_blank">
-  </image>
-  <image imageURL="images/8.jpeg"
-	thumbURL="thumbs/8.jpeg"
-	linkURL="images/8.jpeg"
-	linkTarget="_blank">
-  </image>
-  <image imageURL="images/9.jpeg"
-	thumbURL="thumbs/9.jpeg"
-	linkURL="images/9.jpeg"
-	linkTarget="_blank">
-  </image>
-  <image imageURL="images/10.jpeg"
-	thumbURL="thumbs/10.jpeg"
-	linkURL="images/10.jpeg"
-	linkTarget="_blank">
-  </image>
-  <image imageURL="images/11.jpeg"
-	thumbURL="thumbs/11.jpeg"
-	linkURL="images/11.jpeg"
-	linkTarget="_blank">
-  </image>
-  <image imageURL="images/12.jpeg"
-	thumbURL="thumbs/12.jpeg"
-	linkURL="images/12.jpeg"
-	linkTarget="_blank">
+	<caption><![CDATA[<u><a href="http://www.juicebox.net" target="_blank">Juicebox</a></u> is a free, customizable image gallery. Use it to display your images on any web page in a professional, intuitive and simple way.]]></caption>
   </image>
 </juiceboxgallery>
