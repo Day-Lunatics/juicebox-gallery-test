@@ -3,15 +3,15 @@
 <juiceboxgallery
 	galleryTitle="Juicebox Lite Gallery"
 >
-  <image imageURL="images/wide.jpeg"
-	thumbURL="thumbs/wide.jpeg"
-	linkURL="images/wide.jpeg"
+  <image imageURL="images/1.jpeg"
+	thumbURL="thumbs/1.jpeg"
+	linkURL="images/1.jpeg"
 	linkTarget="_blank">
 	<title>Welcome to Juicebox!</title>
   </image>
-  <image imageURL="images/tall.jpeg"
-	thumbURL="thumbs/tall.jpeg"
-	linkURL="images/tall.jpeg"
+  <image imageURL="images/2.jpeg"
+	thumbURL="thumbs/2.jpeg"
+	linkURL="images/2.jpeg"
 	linkTarget="_blank">
 	<caption><![CDATA[<u><a href="http://www.juicebox.net" target="_blank">Juicebox</a></u> is a free, customizable image gallery. Use it to display your images on any web page in a professional, intuitive and simple way.]]></caption>
   </image>
